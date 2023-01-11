@@ -6,6 +6,12 @@ This is an end-to-end tutorial, proving a guideline on steps of liver segmentati
 
 ![CT Segmentation UNet Keras MidJourney](https://github.com/rekalantar/CT_LiverSegmentation/blob/master/assets/liver_ct_midjourney.png?raw=true)|![Liver cross section MidJourney](https://github.com/rekalantar/CT_LiverSegmentation/blob/master/assets/liver_cross_section_midjourney.png?raw=true)
 
+<p align="center">
+  <img alt="CT Segmentation UNet Keras MidJourney" src="https://github.com/rekalantar/CT_LiverSegmentation/blob/master/assets/liver_ct_midjourney.png?raw=true" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Liver cross section MidJourney" src="https://github.com/rekalantar/CT_LiverSegmentation/blob/master/assets/liver_cross_section_midjourney.png?raw=true" width="45%">
+</p>
+
 The preliminary results based on light training of the UNet model:
 ![CT Segmentation UNet Keras](https://github.com/rekalantar/CT_LiverSegmentation/blob/master/assets/prem_seg_result.png?raw=true)
 
