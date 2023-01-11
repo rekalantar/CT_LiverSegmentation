@@ -1,4 +1,4 @@
-# LiverSegmentation
+# Liver Segmentation on CT
  
 Liver segmentation is an important task in medical imaging because it helps to identify the location and size of the liver in CT scans and MRI scans, which is essential information for the diagnosis and treatment of various liver diseases. It plays a vital role in liver cancer diagnosis and treatment planning, as it allows physicians to define the exact location and extent of tumors, which is crucial for determining the best treatment options and assessing treatment response.
 
